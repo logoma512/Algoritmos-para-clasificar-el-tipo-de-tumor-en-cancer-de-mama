@@ -5,7 +5,6 @@ El poder clasificar un tumor como maligno o benigno es fundamental para determin
 
 **Objetivos**
  1º. Aplicar diferentes algoritmos de inteligencia artificial para clasificar el tumor como benigno o maligno en función de sus característimas físicas como el tamaño, la densidad, textura...
- 
 2º. Calcular la precisión de cada algoritmo para ver cual se ajusta mejor a nuestro conjunto de datos.
 
 **Instrucciones de uso**
